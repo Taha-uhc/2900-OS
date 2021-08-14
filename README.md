@@ -1,3 +1,2 @@
 # ShahenajafLinux
-
-Debian based linux distro for shah e najaf.
+ARCH based linux distro for shah e najaf.
