@@ -1,2 +1,3 @@
-# ShahenajafLinux
-ARCH based linux distro for shah e najaf.
+# 2900-OS
+
+This is a custom OS.
